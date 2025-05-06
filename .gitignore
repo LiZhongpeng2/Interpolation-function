@@ -1,0 +1,12 @@
+# LaTeX 编译产生的辅助文件
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
