@@ -11,7 +11,7 @@ A numerical analysis project comparing Lagrange and Cubic Spline interpolation m
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - NumPy
 - Matplotlib
 - SciPy
